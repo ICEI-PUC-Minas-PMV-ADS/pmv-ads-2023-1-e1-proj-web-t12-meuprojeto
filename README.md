@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# TÔ FERRADO
 
 `CURSO`: Análise e Desenvolvimento de Sistemas
 
@@ -6,11 +6,11 @@
 
 `SEMESTRE`: 2023-1
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Aplicação de gestão de tarefas voltada para alunos de cursos superiores.
 
 ## Integrantes
 
-* Nome completo do aluno 1
+* Marcos Kutova
 * Nome completo do aluno 2
 * Nome completo do aluno 3
 * Nome completo do aluno 4
