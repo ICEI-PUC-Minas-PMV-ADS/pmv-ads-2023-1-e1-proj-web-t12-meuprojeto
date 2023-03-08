@@ -18,8 +18,7 @@ O objetivo geral deste trabalho é a criação de uma aplicação de gestão de 
 Como objetivos específicos, destacam-se:
 
 - Permitir a gestão das disciplinas em que o usuário está matriculado;
--	Permitir o controle do valor em pontos das atividades bem como dos recursos necessários à realização das atividades;
--	Permitir a inserção das pessoas que devem ser informadas da tarefa concluída no caso de trabalhos em grupo.
+-	Permitir a notificação das pessoas que devem ser informadas da tarefa concluída no caso de trabalhos em grupo.
 
 
 ## Justificativa
