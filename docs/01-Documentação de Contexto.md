@@ -17,7 +17,7 @@ Em um contexto de excesso de informações e de interações, muitos alunos de g
 O objetivo geral deste trabalho é a criação de uma aplicação de gestão de tarefas que auxilie os alunos a organizarem suas atividades acadêmicas.
 Como objetivos específicos, destacam-se:
 
-- Permitir a gestão das disciplinas em que o usuário está matriculado;
+- Permitir que o aluno especifique de qual disciplina é cada tarefa;
 -	Permitir a notificação das pessoas que devem ser informadas da tarefa concluída no caso de trabalhos em grupo.
 
 
