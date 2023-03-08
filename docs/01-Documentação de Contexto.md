@@ -10,7 +10,7 @@ Além disso, a capacidade de gerenciar tarefas de forma eficaz também pode ajud
 
 ## Problema
 
-Em um contexto de excesso de informações e de interações, muitos alunos de graduação não conseguem ser produtivos nos seus cursos pela falta de capacidade de priorização e de organização das suas próprias tarefas acadêmicas. Assim, não é raro que esqueçam suas obrigações, percam prazos das atividades ou que não priorizem adequadamente as tarefas mais importantes. 
+Em um contexto de excesso de informações e de interações, muitos alunos de graduação não conseguem ser produtivos nos seus cursos pela falta de capacidade de priorização e de organização das suas próprias tarefas acadêmicas. Assim, não é raro que esqueçam suas obrigações, percam prazos das atividades ou que não priorizem adequadamente as tarefas mais importantes.
 
 ## Objetivos
 
